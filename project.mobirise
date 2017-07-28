@@ -2519,7 +2519,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/page1-1224x1584.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -2536,7 +2536,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/page2-1224x1584.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
