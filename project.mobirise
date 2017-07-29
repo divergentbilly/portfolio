@@ -2854,7 +2854,7 @@
           "_params": {
             "blockTitle": "<h3 style=\"text-align: left;\" data-mce-style=\"text-align: left;\">PROPOSALS</h3>",
             "HTMLCode": "<iframe src=\"https://drive.google.com/file/d/0B1OZD1Tx7OAmSzRhbFJ5U1ZfWDQ/preview\" width=\"450\" height=\"650\"></iframe>",
-            "extEdit": true,
+            "extEdit": false,
             "paddingTop": "40",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/ic-play-2000x1250.jpg",
