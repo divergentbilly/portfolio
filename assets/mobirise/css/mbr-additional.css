@@ -2887,7 +2887,8 @@ pre {
 .cid-qqBpO0kZ64 {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-image: url("../../../assets/images/ic-play-2000x1250.png");
+  background-color: #a1bbb9;
+  background: linear-gradient(45deg, #a1bbb9, #c1c1c1);
 }
 @media (min-width: 992px) {
   .cid-qqBpO0kZ64 .mbr-figure {
@@ -2934,9 +2935,9 @@ pre {
   }
 }
 .cid-qqDckgk08w {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/padma-sanfrancisco-2000x1207.jpg");
+  padding-top: 45px;
+  padding-bottom: 60px;
+  background: linear-gradient(45deg, #e9d3cd, #699dae);
 }
 @media (min-width: 992px) {
   .cid-qqDckgk08w .mbr-figure {
@@ -2957,7 +2958,7 @@ pre {
   color: #465052;
 }
 .cid-qqDffUDTQE H2 {
-  color: #465052;
+  color: #ffffff;
 }
 .cid-qqDeFcaw4B {
   padding-top: 0px;
@@ -7851,8 +7852,9 @@ pre {
 }
 .cid-qqDgicNE70 {
   padding-top: 30px;
-  padding-bottom: 30px;
-  background-image: url("../../../assets/images/padma-sanfrancisco-2000x1208.jpg");
+  padding-bottom: 15px;
+  background-color: #c1c1c1;
+  background: linear-gradient(45deg, #c1c1c1, #548c88);
 }
 @media (min-width: 992px) {
   .cid-qqDgicNE70 .mbr-figure {
@@ -7916,7 +7918,7 @@ pre {
 .cid-qqpKKCTPUc {
   padding-top: 60px;
   padding-bottom: 45px;
-  background-image: url("../../../assets/images/divergent-2000x120832.jpg");
+  background-image: url("../../../assets/images/divergent-2000x12082.jpg");
 }
 .cid-qqnjfrIYJR {
   padding-top: 45px;
@@ -8536,69 +8538,6 @@ pre {
 .cid-qqCmkmtnnw .mbr-text B {
   color: #efefef;
 }
-.cid-qqDoOve7Pw {
-  padding-top: 45px;
-  padding-bottom: 30px;
-  background-image: url("../../../assets/images/padmaleaves-1024x528.png");
-}
-.cid-qqDpoUPMSY {
-  padding-top: 60px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-qqDpoUPMSY .card-img {
-  background-color: #fff;
-}
-.cid-qqDpoUPMSY .card-img a {
-  display: block;
-  padding-top: 2rem;
-}
-.cid-qqDpoUPMSY .card-box {
-  padding: 2rem;
-}
-.cid-qqDpoUPMSY h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-qqDpoUPMSY p {
-  text-align: left;
-}
-.cid-qqDpoUPMSY .mbr-text {
-  color: #767676;
-}
-.cid-qqDpoUPMSY .card-wrapper {
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-qqDpoUPMSY .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
-}
-@media (min-width: 992px) {
-  .cid-qqDpoUPMSY .my-col {
-    flex: 0 0 20%;
-    max-width: 20%;
-    padding: 15px;
-  }
-}
-.cid-qqDnkWxWLT {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-qqDnkWxWLT h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-qqDnkWxWLT p {
-  color: #767676;
-  text-align: left;
-}
-.cid-qqDnkWxWLT .card-box {
-  padding-top: 2rem;
-}
 .cid-qqBd54FGGt {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -8966,6 +8905,9 @@ pre {
     border-right: .30em solid transparent;
     border-left: .30em solid transparent;
   }
+}
+.cid-qqDHqSqhLo {
+  background-image: url("../../../assets/images/billy-1-2000x1065.jpg");
 }
 .cid-qqDHqSqhLo .mbr-media span {
   font-size: 48px;
@@ -9862,7 +9804,7 @@ pre {
 .cid-qqSZR9Sfjq {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-image: url("../../../assets/images/2create-wood-1999x133633.jpg");
+  background-image: url("../../../assets/images/2create-wood-1999x13363.jpg");
 }
 @media (min-width: 992px) {
   .cid-qqSZR9Sfjq .mbr-figure {
