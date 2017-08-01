@@ -9872,7 +9872,7 @@
                 "overlayOpacity": "0.5"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/raffael-2000x1273.jpg",
+                "image": "@PROJECT_PATH@/assets/images/new-paul-1280x720.jpg",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
@@ -9887,7 +9887,7 @@
                 "text": "NORMATIVE MANAGEMENT",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline\" href=\"research.html#header3-76\" data-toolbar=\"-mbrBtnMove\">SHOW ME</a>",
                 "overlayOpacity": "0.7",
-                "overlayColor": "#4f4f4f"
+                "overlayColor": "#465052"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/raffael-2000x1273.jpg",
@@ -9905,7 +9905,7 @@
                 "text": "SCIENTIFIC FRAMEWORK",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline\" href=\"research.html#content4-70\" data-toolbar=\"-mbrBtnMove\">SHOW ME</a>",
                 "overlayOpacity": "0.7",
-                "overlayColor": "#5d8e7c"
+                "overlayColor": "#465052"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/padma-woman-bg-dark-1111x5400.jpg",
@@ -9931,7 +9931,7 @@
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "playVideo": true,
+                "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=iadC41SwaWM",
                 "customStyle1": "display-2",
                 "customStyle2": "display-7",
@@ -9940,8 +9940,8 @@
                 "contentAlign": "center",
                 "text": "COGNITIVE BIOMIMICRY - CYBERNETICS",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline\" href=\"research.html#content4-78\" data-toolbar=\"-mbrBtnMove\">SHOW ME</a>",
-                "overlayOpacity": "0.5",
-                "overlayColor": "#465052"
+                "overlayOpacity": "0.6",
+                "overlayColor": "#1e1e1e"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/divergent-2000x1208.jpg",
