@@ -6845,30 +6845,108 @@ pre {
 .cid-qqXXD6yxEH P {
   text-align: center;
 }
-.cid-qqY2X8oDNy {
-  padding-top: 45px;
+.cid-qrbiylC1Fr {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #2e2e2e;
+}
+.cid-qrbiylC1Fr .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qrbiylC1Fr H2 {
+  color: #cccccc;
+}
+.cid-qrbkFhrSmn {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background-image: url("../../../assets/images/depositphotos-11457007-m-1639x1221.jpg");
+}
+.cid-qrbkFhrSmn .card-box {
+  background-color: #ffffff;
+  padding: 2rem;
+}
+.cid-qrbkFhrSmn h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qrbkFhrSmn p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qrbkFhrSmn .card-wrapper {
+  position: relative;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-qrbkFhrSmn .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-qrbkFhrSmn .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+}
+.cid-qrble2VOTk {
+  padding-top: 0px;
   padding-bottom: 45px;
-  background-color: #2b2b2b;
+  background-image: url("../../../assets/images/249308-1920x1080.jpg");
 }
-@media (min-width: 992px) {
-  .cid-qqY2X8oDNy .mbr-figure {
-    padding-right: 4rem;
-  }
+.cid-qrble2VOTk .media-container-column {
+  align-items: center;
 }
-@media (max-width: 991px) {
-  .cid-qqY2X8oDNy .mbr-figure {
-    padding-bottom: 3rem;
-  }
+.cid-qrble2VOTk .mbr-author-desc {
+  display: block;
 }
-@media (max-width: 767px) {
-  .cid-qqY2X8oDNy .mbr-text {
-    text-align: center;
+.cid-qrble2VOTk .mbr-testimonial {
+  margin-top: 5rem;
+}
+.cid-qrble2VOTk .mbr-testimonial .panel-item {
+  background-color: #efefef;
+  background: linear-gradient(#efefef, transparent);
+}
+.cid-qrble2VOTk .mbr-testimonial .card-block {
+  -webkit-flex-grow: 0;
+  flex-grow: 0;
+  padding: 2rem;
+}
+.cid-qrble2VOTk .mbr-testimonial .card-block .testimonial-photo {
+  margin-top: -5rem;
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  margin-bottom: 1.6rem;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.cid-qrble2VOTk .mbr-testimonial .card-block .testimonial-photo img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-qrble2VOTk .mbr-testimonial .card-block p {
+  margin: 0;
+}
+.cid-qrble2VOTk .mbr-testimonial .card-footer {
+  padding: 0 2rem 2rem 2rem;
+  border-top: 0;
+  word-wrap: break-word;
+  word-break: break-word;
+  background: none;
+}
+@media (max-width: 260px) {
+  .cid-qrble2VOTk .testimonial-photo {
+    width: 100% !important;
+    height: auto !important;
   }
 }
 .cid-qqXUhdgo9u {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-color: #313131;
+  background-color: #2e2e2e;
 }
 .cid-qqXUhdgo9u .mbr-section-subtitle {
   color: #767676;
@@ -6887,7 +6965,7 @@ pre {
 .cid-qqY8sIE34w {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-color: #262626;
+  background-color: #2e2e2e;
 }
 .cid-qqY8sIE34w .mbr-section-subtitle {
   color: #767676;
@@ -6913,8 +6991,7 @@ pre {
 .cid-qqDgicNE70 {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-color: #c1c1c1;
-  background: linear-gradient(45deg, #c1c1c1, #548c88);
+  background-image: url("../../../assets/images/padma-2000x1208.jpg");
 }
 @media (min-width: 992px) {
   .cid-qqDgicNE70 .mbr-figure {
@@ -6937,7 +7014,7 @@ pre {
 .cid-qqY8JoZx95 {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-color: #262626;
+  background-color: #2e2e2e;
 }
 .cid-qqY8JoZx95 .mbr-section-subtitle {
   color: #767676;
@@ -6953,6 +7030,7 @@ pre {
 .cid-qqnelLD8EN {
   padding-top: 45px;
   padding-bottom: 60px;
+  background: linear-gradient(45deg, #777777, #1b1b1b);
 }
 @media (min-width: 992px) {
   .cid-qqnelLD8EN .mbr-figure {
@@ -6967,7 +7045,7 @@ pre {
 .cid-qqY8KDwYYl {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-color: #262626;
+  background-color: #2e2e2e;
 }
 .cid-qqY8KDwYYl .mbr-section-subtitle {
   color: #767676;
@@ -6998,7 +7076,7 @@ pre {
 .cid-qqY8M22Xfx {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-color: #262626;
+  background-color: #2e2e2e;
 }
 .cid-qqY8M22Xfx .mbr-section-subtitle {
   color: #767676;
@@ -8864,7 +8942,7 @@ pre {
 .cid-qqSZR9Sfjq {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-image: url("../../../assets/images/2create-wood-1999x13367.jpg");
+  background-image: url("../../../assets/images/2create-wood-1999x13363.jpg");
 }
 @media (min-width: 992px) {
   .cid-qqSZR9Sfjq .mbr-figure {
