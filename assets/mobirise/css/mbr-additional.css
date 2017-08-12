@@ -24,21 +24,36 @@ body {
   font-family: 'Rubik', sans-serif;
   font-size: 4.25rem;
 }
+.display-1 > .mbr-iconfont {
+  font-size: 6.8rem;
+}
 .display-2 {
   font-family: 'Rubik', sans-serif;
   font-size: 3rem;
+}
+.display-2 > .mbr-iconfont {
+  font-size: 4.8rem;
 }
 .display-4 {
   font-family: 'Rubik', sans-serif;
   font-size: 1rem;
 }
+.display-4 > .mbr-iconfont {
+  font-size: 1.6rem;
+}
 .display-5 {
   font-family: 'Rubik', sans-serif;
   font-size: 1.5rem;
 }
+.display-5 > .mbr-iconfont {
+  font-size: 2.4rem;
+}
 .display-7 {
   font-family: 'Rubik', sans-serif;
   font-size: 1rem;
+}
+.display-7 > .mbr-iconfont {
+  font-size: 1.6rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -85,12 +100,12 @@ body {
   justify-content: center;
   word-break: break-word;
 }
-.btn .mbr-iconfont {
-  font-size: 1.6rem;
-}
 .navbar .btn {
   font-family: 'Rubik', sans-serif;
   font-size: 1rem;
+}
+.navbar .btn > .mbr-iconfont {
+  font-size: 1.6rem;
 }
 .btn-sm {
   font-weight: 500;
@@ -620,6 +635,9 @@ a:hover {
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
+.form-control > .mbr-iconfont {
+  font-size: 1.6rem;
+}
 .form-control,
 .form-control:focus {
   border: 1px solid #e8e8e8;
@@ -655,10 +673,6 @@ pre {
   background: #f4f4f4;
   padding: 10px 24px;
   white-space: pre-wrap;
-}
-.navbar-caption {
-  font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
 }
 .inactive {
   -webkit-user-select: none;
@@ -6944,7 +6958,7 @@ pre {
   overflow: hidden;
 }
 .cid-qrble2VOTk {
-  padding-top: 0px;
+  padding-top: 45px;
   padding-bottom: 45px;
   background-image: url("../../../assets/images/249308-1920x1080.jpg");
 }
@@ -6995,6 +7009,9 @@ pre {
     width: 100% !important;
     height: auto !important;
   }
+}
+.cid-qrble2VOTk H2 {
+  color: #01ed98;
 }
 .cid-qqXUhdgo9u {
   padding-top: 30px;
@@ -9070,7 +9087,7 @@ pre {
 .cid-qqSZR9Sfjq {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-image: url("../../../assets/images/2create-wood-1999x13365.jpg");
+  background-image: url("../../../assets/images/2create-wood-1999x13361.jpg");
 }
 @media (min-width: 992px) {
   .cid-qqSZR9Sfjq .mbr-figure {
