@@ -6523,6 +6523,25 @@ body {
   color: #efefef;
   text-align: center;
 }
+.cid-qqXUhdgo9u {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #2e2e2e;
+}
+.cid-qqXUhdgo9u .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qqXUhdgo9u H2 {
+  color: #cccccc;
+}
+.cid-qqXUhKzH0B {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/ic-circleoflife-2000x1250.jpg");
+}
+.cid-qqXUhKzH0B .mbr-section-subtitle {
+  text-align: left;
+}
 .cid-qrbiylC1Fr {
   padding-top: 30px;
   padding-bottom: 15px;
@@ -6626,25 +6645,6 @@ body {
 }
 .cid-qrble2VOTk .mbr-section-subtitle {
   color: #efefef;
-}
-.cid-qqXUhdgo9u {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background-color: #2e2e2e;
-}
-.cid-qqXUhdgo9u .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qqXUhdgo9u H2 {
-  color: #cccccc;
-}
-.cid-qqXUhKzH0B {
-  padding-top: 60px;
-  padding-bottom: 15px;
-  background-image: url("../../../assets/images/ic-circleoflife-2000x1250.jpg");
-}
-.cid-qqXUhKzH0B .mbr-section-subtitle {
-  text-align: left;
 }
 .cid-qqY8sIE34w {
   padding-top: 30px;
@@ -9683,7 +9683,7 @@ body {
 .cid-qqSZR9Sfjq {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-image: url("../../../assets/images/2create-wood-1999x133611.jpg");
+  background-image: url("../../../assets/images/2create-wood-1999x133613.jpg");
 }
 @media (min-width: 992px) {
   .cid-qqSZR9Sfjq .mbr-figure {
