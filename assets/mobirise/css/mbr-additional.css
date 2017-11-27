@@ -7406,6 +7406,65 @@ body {
     padding: 15px;
   }
 }
+.cid-qCd4zK0D9G {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #cccccc;
+}
+.cid-qCd4zK0D9G .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qCd4zK0D9G H2 {
+  color: #ffffff;
+}
+.cid-qCd412wTxo {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background: #fcfcfc;
+}
+.cid-qCd412wTxo .media-container-row {
+  margin: 0 auto;
+  align-items: stretch;
+}
+.cid-qCd412wTxo .media-container-row .img-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+}
+.cid-qCd412wTxo .media-container-row .img-item .img-cont {
+  position: relative;
+  overflow: hidden;
+}
+.cid-qCd412wTxo .media-container-row .img-item .img-cont img {
+  width: 100%;
+}
+.cid-qCd412wTxo .media-container-row .img-item .img-cont .img-caption {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  z-index: 2;
+  padding: 1rem 1rem;
+  word-break: break-word;
+}
+.cid-qCd412wTxo .media-container-row .img-item .img-cont .img-caption p {
+  margin-bottom: 0;
+}
+.cid-qCd412wTxo .media-container-row .img-item.item1 {
+  padding: 0 2rem 0 0;
+}
+@media (max-width: 992px) {
+  .cid-qCd412wTxo .img-item {
+    width: 100% !important;
+  }
+  .cid-qCd412wTxo .img-item.item1 {
+    width: 100%;
+    flex-basis: initial !important;
+    padding: 0 0 2rem 0 !important;
+  }
+}
 .cid-qqC1fO9jro {
   padding-top: 45px;
   padding-bottom: 30px;
@@ -9354,7 +9413,7 @@ body {
 .cid-qqSZR9Sfjq {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-image: url("../../../assets/images/2create-wood-1999x13360.jpg");
+  background-image: url("../../../assets/images/2create-wood-1999x13361.jpg");
 }
 @media (min-width: 992px) {
   .cid-qqSZR9Sfjq .mbr-figure {
