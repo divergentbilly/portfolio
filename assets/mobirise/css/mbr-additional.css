@@ -6518,81 +6518,6 @@ body {
     padding-top: 3rem;
   }
 }
-.cid-qrbADFKDFr {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background-color: #2e2e2e;
-}
-.cid-qrbADFKDFr .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qrbADFKDFr H2 {
-  color: #cccccc;
-}
-.cid-qrbAExs7JV {
-  padding-top: 0px;
-  padding-bottom: 30px;
-  background-color: #efefef;
-}
-.cid-qrbAExs7JV .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qrbAExs7JV .mbr-text {
-  color: #767676;
-}
-.cid-qrbAExs7JV .card-wrapper {
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-qrbAExs7JV .card-wrapper .card-img {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  position: relative;
-  overflow: hidden;
-}
-.cid-qrbAExs7JV .card-wrapper .card-img .mbr-overlay {
-  background-color: #efefef;
-  display: none;
-  transition: opacity .3s;
-}
-.cid-qrbAExs7JV .card-wrapper .card-img .mbr-section-btn {
-  position: absolute;
-  transition: opacity .3s;
-  margin: 0;
-}
-.cid-qrbAExs7JV .card-wrapper .card-box {
-  background-color: #efefef;
-  padding: 0 2rem 2rem 2rem;
-}
-.cid-qrbAExs7JV .card-wrapper .card-box h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  padding-top: 2rem;
-}
-.cid-qrbAExs7JV .card-wrapper .card-box p {
-  margin-bottom: 0;
-  padding-top: 1.5rem;
-}
-.cid-qrbAExs7JV .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
-}
-.cid-qrbAExs7JV .popup-btn .mbr-overlay {
-  display: block !important;
-  opacity: 0;
-}
-.cid-qrbAExs7JV .popup-btn .mbr-section-btn {
-  display: block !important;
-  opacity: 0;
-}
-.cid-qrbAExs7JV .popup-btn:hover .mbr-overlay {
-  opacity: .5;
-}
-.cid-qrbAExs7JV .popup-btn:hover .mbr-section-btn {
-  opacity: 1;
-}
 .cid-qqY8M22Xfx {
   padding-top: 30px;
   padding-bottom: 0px;
@@ -9444,7 +9369,7 @@ body {
 .cid-qqSZR9Sfjq {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-image: url("../../../assets/images/2create-wood-1999x13362.jpg");
+  background-image: url("../../../assets/images/2create-wood-1999x13363.jpg");
 }
 @media (min-width: 992px) {
   .cid-qqSZR9Sfjq .mbr-figure {
