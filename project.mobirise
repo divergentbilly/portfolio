@@ -40,7 +40,7 @@
     "versionFirst": "4.0.16",
     "uniqCompNum": 341,
     "versionPublish": "4.5.2",
-    "snow": "on",
+    "snow": "",
     "favicon": "@PROJECT_PATH@/assets/images/bpk-favicon-128x128-1.png",
     "noImageResize": "",
     "html_before": "<script src=\"//cdnjs.cloudflare.com/ajax/libs/Snowstorm/20131208/snowstorm-min.js\"></script>",
