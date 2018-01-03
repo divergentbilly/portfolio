@@ -10392,31 +10392,6 @@ body {
 .cid-qqC3Q0cdLA P {
   color: #232323;
 }
-.cid-qFvyttlPJ8 {
-  padding-top: 75px;
-  padding-bottom: 15px;
-  background-image: url("../../../assets/images/dashboard-1920x1080.jpg");
-}
-.cid-qFvyttlPJ8 .media-container-row {
-  flex-direction: row-reverse;
-}
-@media (min-width: 992px) {
-  .cid-qFvyttlPJ8 .mbr-figure {
-    padding-right: 4rem;
-    padding-right: 0;
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-qFvyttlPJ8 .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-qFvyttlPJ8 .mbr-text {
-    text-align: center;
-  }
-}
 #htmlblock-block-3z H3 {
   color: #01ed98;
   text-align: left;
