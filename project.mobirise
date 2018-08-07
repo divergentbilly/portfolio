@@ -10536,7 +10536,7 @@
           "_once": false,
           "_params": {
             "slides__autoplay": true,
-            "slides__autoplayInterval": "6000",
+            "slides__autoplayInterval": "8000",
             "slides__showBullets": true,
             "slides": [
               {
@@ -10553,7 +10553,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "By Vasileios Korompilias",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline\" href=\"https://itunes.apple.com/gr/book/relational-awareness/id1417456562?mt=11\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FREE iBook</a>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline\" href=\"https://itunes.apple.com/gr/book/relational-awareness/id1417456562?mt=11\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-apple mbr-iconfont mbr-iconfont-btn\"></span>FREE iBook</a>",
                 "overlayOpacity": "0.8",
                 "overlayColor": "#360036"
               },
