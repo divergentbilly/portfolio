@@ -39,7 +39,7 @@
     },
     "versionFirst": "4.0.16",
     "uniqCompNum": 391,
-    "versionPublish": "4.9.3",
+    "versionPublish": "4.8.10",
     "snow": "",
     "favicon": "@PROJECT_PATH@/assets/images/bpk-favicon-128x128-1.png",
     "noImageResize": "",
@@ -12826,7 +12826,7 @@
             "overlayOpacity": "0.4"
           },
           "blockTitle": "",
-          "HTMLCode": "<h3>PRODUCT DESIGN IDEATION</h3>\n<iframe src=\"https://onedrive.live.com/embed?cid=7405BC48608BCC1C&resid=7405BC48608BCC1C%21435786&authkey=ANyOO63IOiqPf18&em=2\" width=\"1000\" height=\"500\" frameborder=\"0\" scrolling=\"no\"></iframe>",
+          "HTMLCode": "<h3>PRODUCT DESIGN IDEATION</h3><p><span contenteditable=\"false\" data-mce-object=\"iframe\" class=\"mce-preview-object mce-object-iframe\" data-mce-p-scrolling=\"no\" data-mce-p-frameborder=\"0\" data-mce-p-src=\"https://onedrive.live.com/embed?cid=7405BC48608BCC1C&amp;resid=7405BC48608BCC1C%21435786&amp;authkey=ANyOO63IOiqPf18&amp;em=2\"><iframe src=\"https://onedrive.live.com/embed?cid=7405BC48608BCC1C&amp;resid=7405BC48608BCC1C%21435786&amp;authkey=ANyOO63IOiqPf18&amp;em=2\" width=\"1000\" height=\"500\" frameborder=\"0\"></iframe><span class=\"mce-shim\"></span></span></p><div class=\"mce-drag-container\" data-mce-bogus=\"all\" unselectable=\"on\" contenteditable=\"false\" style=\"position: absolute; opacity: 0.5; overflow: hidden; border: 0px; padding: 0px; margin: 0px; width: 1002px; height: 399.2px; left: -3.60001px; top: 155.8px;\" data-mce-style=\"position: absolute; opacity: 0.5; overflow: hidden; border: 0px; padding: 0px; margin: 0px; width: 1002px; height: 502px;\"><span contenteditable=\"false\" data-mce-object=\"iframe\" class=\"mce-preview-object mce-object-iframe\" data-mce-p-scrolling=\"no\" data-mce-p-frameborder=\"0\" data-mce-p-src=\"https://onedrive.live.com/embed?cid=7405BC48608BCC1C&amp;resid=7405BC48608BCC1C%21435786&amp;authkey=ANyOO63IOiqPf18&amp;em=2\" style=\"width: 1002px; height: 502px; margin: 0px; box-sizing: border-box;\" data-mce-style=\"width: 1002px; height: 502px; margin: 0px; box-sizing: border-box;\"><iframe src=\"https://onedrive.live.com/embed?cid=7405BC48608BCC1C&amp;resid=7405BC48608BCC1C%21435786&amp;authkey=ANyOO63IOiqPf18&amp;em=2\" width=\"1000\" height=\"500\" frameborder=\"0\"></iframe><span class=\"mce-shim\"></span></span></div>",
           "paddingTop": ".block {padding-bottom:40px; padding-top:40px;}",
           "alias": "htmlblock",
           "_tags": [
