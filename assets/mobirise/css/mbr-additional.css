@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
+@import url(https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i);
 
 
 
@@ -20,39 +20,39 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Nunito', sans-serif;
   font-size: 4.25rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Nunito', sans-serif;
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Nunito', sans-serif;
   font-size: 1rem;
 }
 .display-4 > .mbr-iconfont {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Nunito', sans-serif;
   font-size: 1.5rem;
 }
 .display-5 > .mbr-iconfont {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-family: 'Nunito', sans-serif;
+  font-size: 0.8rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.28rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -658,14 +658,14 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-family: 'Nunito', sans-serif;
+  font-size: 0.8rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.28rem;
 }
 .form-control,
 .form-control:focus {
@@ -1381,6 +1381,17 @@ body {
   .card-wrapper {
     flex: auto!important;
   }
+}
+.jq-selectbox li:hover,
+.jq-selectbox li.selected {
+  background-color: #17cd8b;
+  color: #000000;
+}
+.jq-selectbox .jq-selectbox__trigger-arrow {
+  border-top-color: contrast(currentColor, #000000, #ffffff, 30%);
+}
+.jq-selectbox:hover .jq-selectbox__trigger-arrow {
+  border-top-color: #17cd8b;
 }
 .cid-qqktuhWMbs {
   padding-top: 120px;
@@ -8519,6 +8530,17 @@ body {
 .cid-qqBpO0kZ64 .mbr-section-btn B {
   color: #ffffff;
 }
+#htmlblock-block-aw H3 {
+  color: #01ed98;
+  text-align: left;
+}
+#htmlblock-block-aw H2 {
+  color: #ffffff;
+  text-align: left;
+}
+#htmlblock-block-aw H1 {
+  color: #01ed98;
+}
 .cid-qqBrgbIXrh {
   padding-top: 45px;
   padding-bottom: 0px;
@@ -9289,16 +9311,16 @@ body {
 .cid-qNeCqM1Yf7 H2 {
   color: #cccccc;
 }
-.cid-qNeywIY0lR {
+.cid-rkM05Kggld {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-color: #2e2e2e;
+  background-color: #001f3e;
 }
-.cid-qNeywIY0lR .mbr-section-subtitle {
+.cid-rkM05Kggld .mbr-section-subtitle {
   color: #767676;
 }
-.cid-qNeywIY0lR H2 {
-  color: #cccccc;
+.cid-rkM05Kggld H2 {
+  color: #00ffec;
 }
 .cid-qNeys7IKph {
   background-image: url("../../../assets/images/group6-948x632.png");
@@ -9326,16 +9348,61 @@ body {
 .cid-qNeys7IKph .card {
   padding-bottom: 1.5rem;
 }
-.cid-qYtICS7euw {
+.cid-rkLZE7yINr {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-color: #2e2e2e;
+  background-color: #001f3e;
 }
-.cid-qYtICS7euw .mbr-section-subtitle {
+.cid-rkLZE7yINr .mbr-section-subtitle {
   color: #767676;
 }
-.cid-qYtICS7euw H2 {
-  color: #cccccc;
+.cid-rkLZE7yINr H2 {
+  color: #00ffec;
+}
+.cid-rkLXNpGfAl {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/coexistence-in-a-airplane-1920x1280.jpg");
+}
+@media (min-width: 992px) {
+  .cid-rkLXNpGfAl .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rkLXNpGfAl .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rkLXNpGfAl .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rkLXNpGfAl H1 {
+  color: #00f9ff;
+}
+#htmlblock-block-ax H3 {
+  color: #01ed98;
+  text-align: left;
+}
+#htmlblock-block-ax H2 {
+  color: #ffffff;
+  text-align: left;
+}
+#htmlblock-block-ax H1 {
+  color: #01ed98;
+}
+.cid-rkLZH3RyNL {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #001f3e;
+}
+.cid-rkLZH3RyNL .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rkLZH3RyNL H2 {
+  color: #00ffec;
 }
 #htmlblock-block-ac H3 {
   color: #01ed98;
