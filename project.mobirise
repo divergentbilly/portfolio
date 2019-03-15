@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Billy K",
-    "currentPage": "architecture.html",
+    "name": "Vasileios Korompilias Portfolio",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -8982,8 +8982,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Billy Korompilias Portfolio",
-        "meta_descr": "Biomimicry (Bio-inspired) UX Architect | Lead Product Designer | Cognitive Architect | OR | L&D | R&D",
+        "title": "Vasileios Korompilias Portfolio",
+        "meta_descr": "Senior Service/Product Designer | Human Experience & Interaction Guru",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
