@@ -38,7 +38,7 @@
       ]
     },
     "versionFirst": "4.0.16",
-    "uniqCompNum": 392,
+    "uniqCompNum": 398,
     "versionPublish": "4.9.6",
     "snow": "",
     "favicon": "@PROJECT_PATH@/assets/images/bpk-favicon-128x128-1.png",
@@ -61,7 +61,9 @@
         "name": "Nunito",
         "url": "https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
       }
-    ]
+    ],
+    "publishType": "local",
+    "publishPath": "file:///D:/BILLY/Documents/GitHub/portfolio"
   },
   "pages": {
     "bio.html": {
@@ -9827,7 +9829,7 @@
             }
           },
           "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#073b4c\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\">Principal Service/Product Designer<br>Experience &amp; Interaction Guru</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">\n                    Shape your future web project with sharp design and refine coded functions.\n                </h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#073b4c\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\">Senior Service/Product Designer<br>Experience &amp; Interaction Guru</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">\n                    Shape your future web project with sharp design and refine coded functions.\n                </h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content4-9u",
           "_isUserblock": true,
           "_cid": "qH7iahkRRb",
@@ -10478,7 +10480,7 @@
             "extEdit": false,
             "paddingTop": "40",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/smart-care-intro-1920x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/smart-care-_intro-1920x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -10487,7 +10489,7 @@
             "overlayOpacity": "0.6"
           },
           "blockTitle": "<h2>IDEATION</h2>",
-          "HTMLCode": "<h3>[FOR Elder UK]</h3><p><span contenteditable=\"false\" data-mce-object=\"iframe\" class=\"mce-preview-object mce-object-iframe\" data-mce-p-scrolling=\"no\" data-mce-p-frameborder=\"0\" data-mce-p-src=\"https://onedrive.live.com/embed?cid=7405BC48608BCC1C&amp;resid=7405BC48608BCC1C%21449621&amp;authkey=ALUyY0WCFF6sT58&amp;em=2\"><iframe src=\"https://onedrive.live.com/embed?cid=7405BC48608BCC1C&amp;resid=7405BC48608BCC1C%21449621&amp;authkey=ALUyY0WCFF6sT58&amp;em=2\" width=\"1000\" height=\"500\" frameborder=\"0\"></iframe><span class=\"mce-shim\"></span></span></p>",
+          "HTMLCode": "<h3>[FOR GOOGLE DESIGN SPRINT]</h3>\n<iframe src=\"https://onedrive.live.com/embed?cid=7405BC48608BCC1C&resid=7405BC48608BCC1C%21449621&authkey=ALUyY0WCFF6sT58&em=2\" width=\"1000\" height=\"500\" frameborder=\"0\" scrolling=\"no\"></iframe>",
           "paddingTop": ".block {padding-bottom:40px; padding-top:40px;}",
           "alias": "htmlblock",
           "_tags": [
